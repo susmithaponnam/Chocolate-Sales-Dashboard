@@ -60,8 +60,7 @@ The dataset includes information such as:
 
 The data was provided as an Excel dataset as part of Chandoo's Power BI/Data Analytics learning resources.
 
-[Data Source:](https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/sample-chocolate-shipments-data-all-Apr-
-2025.xlsx)
+[Data Source Link](https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/sample-chocolate-shipments-data-all-Apr-2025.xlsx)
 
 ## 🧹 Data Preparation
 
