@@ -60,9 +60,8 @@ The dataset includes information such as:
 
 The data was provided as an Excel dataset as part of Chandoo's Power BI/Data Analytics learning resources.
 
-**Dataset source:**
-https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/sample-chocolate-shipments-data-all-Apr-2025.xlsx
----
+[Data Source:](https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/sample-chocolate-shipments-data-all-Apr-
+2025.xlsx)
 
 ## 🧹 Data Preparation
 
@@ -330,7 +329,6 @@ The dashboard implementation, analysis, report layout, and learning outcomes pre
 
 B.Tech — Computer Science & Engineering (AI)
 
-Interested in **Data Analytics, Business Intelligence, Power BI, SQL, and Data Visualization**.
 
 ---
 
