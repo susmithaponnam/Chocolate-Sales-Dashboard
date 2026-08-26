@@ -8,6 +8,8 @@ The dashboard transforms raw shipment data into an interactive business report w
 
 ## 📊 Dashboard Preview
 
+<img width="884" height="495" alt="image" src="https://github.com/user-attachments/assets/7262a374-9e66-4a7a-96f0-12047fbf170a" />
+
 
 ---
 
